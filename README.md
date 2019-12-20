@@ -1,6 +1,10 @@
 【JS框架】Preact - 一个瘦身成功的 React 备胎
 ========================================
 
+## Youtube视频讲解
+
+https://youtu.be/jb59gZgLEmo
+
 ## 知识点
 
 + 三大臃肿的JS框架：React, Vue, Angular
